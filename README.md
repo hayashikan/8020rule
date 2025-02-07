@@ -49,4 +49,4 @@ CEO宣布启动“AI共生计划”，要求各部门在12个月内用AI替代80
 * 其他待补充
 
 ### 协议
-本项目使用[CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+本项目使用[CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)协议开源。
