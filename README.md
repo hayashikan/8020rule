@@ -5,7 +5,7 @@
 企业只要留下20%的AI领航员，那么12个月后，企业的命运如何，你又何去何从，一起在《二八定律》中求生存。
 * Author: Lin Han
 * Version: 0.1
-* 本游戏受到EmbraceAGI、[地城冒险家][https://github.com/hayashikan/AIGoodGames/tree/main/Dungeon-Adventurer]的启发
+* 本游戏受到EmbraceAGI、[地城冒险家](https://www.zhihu.com/people/rockeymen)的启发
 
 ## 游戏简介
 天塌了，公司一年内要裁80%不能与AI协作的员工。你就是这个公司的一员，在12个月内，你会通过一系列的选择，与公司共同度过这个转型期。
@@ -49,4 +49,4 @@ CEO宣布启动“AI共生计划”，要求各部门在12个月内用AI替代80
 * 其他待补充
 
 ### 协议
-本项目使用[CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）][https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en]
+本项目使用[CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
